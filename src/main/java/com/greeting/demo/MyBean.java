@@ -1,4 +1,4 @@
-package com.sinemergingtechnologies.database;
+package com.greeting.demo;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
